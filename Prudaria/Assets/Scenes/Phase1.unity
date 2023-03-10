@@ -3837,10 +3837,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76ad35cf4aceafb498bb61c9fa9341ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeMultiplier: 50
-  startHour: 7
-  endHour: 22
-  timeText: {fileID: 1682637500}
+  timeMultiplier: 1
 --- !u!1 &1605685842
 GameObject:
   m_ObjectHideFlags: 0
